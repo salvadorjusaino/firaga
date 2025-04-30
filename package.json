@@ -1,0 +1,28 @@
+{
+	"name": "firaga",
+	"private": true,
+	"version": "0.0.0",
+	"type": "module",
+	"scripts": {
+		"dev": "vite --port 3000",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"devDependencies": {
+		"terser": "^5.39.0",
+		"vite": "^6.2.3"
+	},
+	"dependencies": {
+		"alpinejs": "^3.14.9",
+		"embla-carousel": "^8.6.0",
+		"embla-carousel-autoplay": "^8.6.0",
+		"embla-carousel-class-names": "^8.6.0",
+		"embla-carousel-fade": "^8.6.0",
+		"embla-carousel-wheel-gestures": "^8.0.2",
+		"gsap": "^3.12.7",
+		"howler": "^2.2.4",
+		"imagesloaded": "^5.0.0",
+		"lenis": "^1.2.3",
+		"three": "^0.174.0"
+	}
+}

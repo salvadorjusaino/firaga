@@ -1,0 +1,77 @@
+{
+	"tracks": [
+		{
+			"trackId": 1,
+			"track_file": "https://p.scdn.co/mp3-preview/cc5068bb26c1e571873b34d5e87ecb441058fc31?cid=18fc7b00a64d447393f6ee0dd98a70be",
+			"howl": null,
+			"genre": "pop",
+			"bpm": 120
+		},
+		{
+			"trackId": 2,
+			"track_file": "https://sistema.danzstudio.mx/sounds/running_out",
+			"genre": "pop",
+			"bpm": 120
+		},
+		{
+			"trackId": 3,
+			"track_file": "https://p.scdn.co/mp3-preview/93d269b37a3605ce1637c96b000096a71b8c3bdd?cid=18fc7b00a64d447393f6ee0dd98a70be",
+			"genre": "pop",
+			"bpm": 120
+		},
+		{
+			"trackId": 4,
+			"track_file": "https://sistema.danzstudio.mx/sounds/80s_vibe",
+			"genre": "pop",
+			"bpm": 120
+		},
+		{
+			"trackId": 5,
+			"track_file": "https://sistema.danzstudio.mx/sounds/rave_digger",
+			"genre": "pop",
+			"bpm": 120
+		},
+		{
+			"trackId": 6,
+			"track_file": "https://p.scdn.co/mp3-preview/cc5068bb26c1e571873b34d5e87ecb441058fc31?cid=18fc7b00a64d447393f6ee0dd98a70be",
+			"genre": "pop",
+			"bpm": 120
+		},
+		{
+			"trackId": 7,
+			"track_file": "https://p.scdn.co/mp3-preview/cc5068bb26c1e571873b34d5e87ecb441058fc31?cid=18fc7b00a64d447393f6ee0dd98a70be",
+			"genre": "pop",
+			"bpm": 120
+		},
+		{
+			"trackId": 8,
+			"track_file": "https://p.scdn.co/mp3-preview/cc5068bb26c1e571873b34d5e87ecb441058fc31?cid=18fc7b00a64d447393f6ee0dd98a70be",
+			"genre": "pop",
+			"bpm": 120
+		},
+		{
+			"trackId": 9,
+			"track_file": "https://p.scdn.co/mp3-preview/cc5068bb26c1e571873b34d5e87ecb441058fc31?cid=18fc7b00a64d447393f6ee0dd98a70be",
+			"genre": "pop",
+			"bpm": 120
+		},
+		{
+			"trackId": 10,
+			"track_file": "https://p.scdn.co/mp3-preview/cc5068bb26c1e571873b34d5e87ecb441058fc31?cid=18fc7b00a64d447393f6ee0dd98a70be",
+			"genre": "pop",
+			"bpm": 120
+		},
+		{
+			"trackId": 11,
+			"track_file": "https://p.scdn.co/mp3-preview/cc5068bb26c1e571873b34d5e87ecb441058fc31?cid=18fc7b00a64d447393f6ee0dd98a70be",
+			"genre": "pop",
+			"bpm": 120
+		},
+		{
+			"trackId": 12,
+			"track_file": "https://p.scdn.co/mp3-preview/cc5068bb26c1e571873b34d5e87ecb441058fc31?cid=18fc7b00a64d447393f6ee0dd98a70be",
+			"genre": "pop",
+			"bpm": 120
+		}
+	]
+}
