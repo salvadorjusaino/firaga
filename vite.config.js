@@ -24,7 +24,7 @@ export default {
 					if (assetInfo.name?.endsWith(".css")) {
 						return "css/style-[hash][extname]"; // Guarda los archivos CSS en la carpeta "css"
 					}
-					//return "images/[name]-[hash][extname]"; // Otros assets en "assets"
+					return "images/[name]-[hash][extname]"; // Otros assets en "assets"
 				},
 			},
 		},
